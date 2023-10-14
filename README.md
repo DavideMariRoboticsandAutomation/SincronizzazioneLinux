@@ -1,5 +1,7 @@
-Questi sono due (dei molteplici realizzati in ambito sincronizzazione,che non starò qui a trattare per una questione di ridondanza) semplici script che ho realizzato durante i miei studi universitari riguardanti la sincronizzazione di thread e processi per svolgere un attività x. Notare che sono stati implementati con due metodi risolutivi diversi ma entrambi efficenti
------------------------------------------------------------------------SPECIFICA SCRIPT 1----------------------------------------------------------------------------
+Questi sono due (dei molteplici script realizzati in ambito sincronizzazione,che non starò qui a trattare per una questione di ridondanza) semplici script che ho realizzato durante i miei studi universitari riguardanti la sincronizzazione di thread e processi per svolgere un attività x. Notare che sono stati implementati con due metodi risolutivi diversi ma entrambi efficenti.
+
+----SPECIFICA SCRIPT 1---
+
 SPECIFICATIONS TO BE IMPLEMENTED:
 
 You are editing the '/home/esame/prog.c' file. You cannot remove 
@@ -31,7 +33,7 @@ the Makfile) WILL BE AUTOMATICALLY STORED WHEN YOU CLOSE YOUR EXAMINATION
 VIA THE CLOSURE CODE YOU RECEIVED, OR WHEN THE TIME YOU HAVE BEEN GRANTED
 TO DEVELOP YOUR PROGRAM EXPIRES. 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 SPECIFICHE DA IMPLEMENTARE: 
 
 Implementare una programma che riceva in input, tramite argv[], il nomi
@@ -53,7 +55,7 @@ una linea diversa) che era stata immessa tramite lo standard-input.
 In caso non vi sia immissione di dati sullo standard-input, l'applicazione dovra' utilizzare 
 non piu' del 5% della capacita' di lavoro della CPU.
 
------------------------------------------------------------------------SPECIFICA SCRIPT 2----------------------------------------------------------------------------
+---SPECIFICA SCRIPT 2---
 
 SPECIFICATIONS TO BE IMPLEMENTED:
 
@@ -67,7 +69,7 @@ The application should handle the SIGINT signal (or CTRL_C_EVENT in the case of 
 
 If there is no input provided, the application should use no more than 5% of the CPU's processing capacity.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 SPECIFICHE DA IMPLEMENTARE: 
 
 Implementare un'applicazione che riceva in input tramite argv[] il 
