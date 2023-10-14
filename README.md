@@ -1,6 +1,7 @@
+
 Questi sono due (dei molteplici script realizzati in ambito sincronizzazione,che non starò qui a trattare per una questione di ridondanza) semplici script che ho realizzato durante i miei studi universitari riguardanti la sincronizzazione di thread e processi per svolgere un attività x. Notare che sono stati implementati con due metodi risolutivi diversi ma entrambi efficenti.
 
-----SPECIFICA SCRIPT 1---
+---SPECIFICA SCRIPT 1---
 
 SPECIFICATIONS TO BE IMPLEMENTED:
 
